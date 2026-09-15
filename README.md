@@ -1,16 +1,52 @@
 ## Hi there 👋
+# Hi 👋, I'm Anurag Verma
 
-<!--
-**AnuragVerma777/AnuragVerma777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Science | Machine Learning | Python
 
-Here are some ideas to get you started:
+I'm a developer interested in Data Science, Machine Learning
+and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- Machine Learning
+- Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Customer Churn Intelligence
+Machine learning project for customer churn prediction.
+
+### 💰 Customer Churn Revenue Intelligence
+ML-based customer churn and revenue analysis.
+
+### 📊 ExpTrac
+Expense tracking application.
+
+### 🧩 LeetCode Solutions
+My solutions to coding and DSA problems.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragVerma777&show_icons=true)
+
+---
+
+## 🔗 Connect With Me
+
+- www.linkedin.com/in/anurag-katariya-197454320
+- mrj26655@gmail.com
+
+
