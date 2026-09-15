@@ -40,13 +40,17 @@ My solutions to coding and DSA problems.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragVerma777&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragVerma777&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragVerma777&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnuragVerma777&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🔗 Connect With Me
 
-- www.linkedin.com/in/anurag-katariya-197454320
-- mrj26655@gmail.com
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/anurag-katariya-197454320/)
+- 📧 [Email](mailto:mrj26655@gmail.com)
 
