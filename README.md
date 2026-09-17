@@ -39,27 +39,6 @@ My solutions to coding and DSA problems.
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AnuragVerma777&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=AnuragVerma777&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragVerma777&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 
 ## 🔗 Connect With Me
