@@ -98,6 +98,3 @@ I'm always happy to talk about data science, ML projects, hackathons, or interns
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
-- 💼 [LinkedIn](https://www.linkedin.com/in/anurag-katariya-197454320/)
-- 📧 [Email](mailto:mrj26655@gmail.com)
-
