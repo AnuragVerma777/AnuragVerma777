@@ -9,7 +9,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnuragVerma777&label=Profile%20Views&color=1d4ed8&style=flat-square)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Katariya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-katariya-197454320)
 [![Gmail](https://img.shields.io/badge/Email-mrj26655%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrj26655@gmail.com)
 
