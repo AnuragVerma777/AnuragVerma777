@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="138" height="40" viewBox="0 0 138 40">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#e6edf3" stop-opacity=".25"/></linearGradient>
-<filter id="gl"><feGaussianBlur stdDeviation="3"/></filter></defs>
-<rect x="2" y="2" width="134" height="36" rx="18.0" fill="none" stroke="#e6edf3" stroke-opacity=".5" filter="url(#gl)"/>
-<rect x="1.5" y="1.5" width="135" height="37" rx="18.5" fill="#0b0d12" stroke="url(#g)" stroke-width="1.5"/>
-<text x="79.0" y="25.0" text-anchor="middle" fill="#fff" font-size="13" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">X / Twitter</text>
-<g transform="translate(18 11)" fill="#fff"><path d="M13.6 0h2.6l-5.7 6.5L17.2 17h-5.3L7.8 11.6 3.1 17H.5l6.1-7L.1 0h5.4l3.7 4.9L13.6 0zm-.9 15.5h1.4L4.7 1.5H3.2l9.5 14z" transform="scale(1) translate(0 1)"/></g>
-</svg>

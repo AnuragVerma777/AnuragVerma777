@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="270" height="90" viewBox="0 0 270 90">
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="120" viewBox="0 0 270 120">
 <defs>
-<clipPath id="c"><rect width="270" height="90" rx="14"/></clipPath>
+<clipPath id="c"><rect width="270" height="120" rx="14"/></clipPath>
 <filter id="b" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="45"/></filter>
 <filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0"/></filter>
 
 </defs>
 <g clip-path="url(#c)">
-<rect width="270" height="90" fill="#090b10"/>
-<g filter="url(#b)"><circle cx="143" cy="55" r="58" fill="#14507a" opacity=".55"><animate attributeName="cx" values="143;149;143" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="55;46;55" dur="18s" repeatCount="indefinite"/></circle>
-<circle cx="205" cy="40" r="47" fill="#1a6a4a" opacity=".55"><animate attributeName="cx" values="205;155;205" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="40;73;40" dur="21s" repeatCount="indefinite"/></circle>
-<circle cx="153" cy="52" r="54" fill="#2a1a5a" opacity=".55"><animate attributeName="cx" values="153;197;153" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="52;48;52" dur="23s" repeatCount="indefinite"/></circle></g>
-<rect width="270" height="90" filter="url(#n)"/>
+<rect width="270" height="120" fill="#090b10"/>
+<g filter="url(#b)"><circle cx="108" cy="28" r="73" fill="#14507a" opacity=".55"><animate attributeName="cx" values="108;169;108" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="28;67;28" dur="18s" repeatCount="indefinite"/></circle>
+<circle cx="216" cy="18" r="65" fill="#1a6a4a" opacity=".55"><animate attributeName="cx" values="216;262;216" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="18;49;18" dur="21s" repeatCount="indefinite"/></circle>
+<circle cx="129" cy="62" r="73" fill="#2a1a5a" opacity=".55"><animate attributeName="cx" values="129;85;129" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="62;83;62" dur="23s" repeatCount="indefinite"/></circle></g>
+<rect width="270" height="120" filter="url(#n)"/>
 
-<text x="135.0" y="42" text-anchor="middle" font-size="26">⭐
-<animateTransform attributeName="transform" type="rotate" values="-6 135.0 34;6 135.0 34;-6 135.0 34" dur="4s" repeatCount="indefinite"/></text>
-<text x="135.0" y="72" text-anchor="middle" fill="#fff" fill-opacity=".45" font-size="10" letter-spacing="3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">CRAFT MATTERS</text>
+<text x="135.0" y="58" text-anchor="middle" font-size="30">🚀
+<animateTransform attributeName="transform" type="rotate" values="-6 135.0 48;6 135.0 48;-6 135.0 48" dur="4s" repeatCount="indefinite"/></text>
+<text x="135.0" y="92" text-anchor="middle" fill="#fff" fill-opacity=".45" font-size="10" letter-spacing="3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">ALWAYS IMPROVING</text>
 </g>
-<rect x=".5" y=".5" width="269" height="89" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x=".5" y=".5" width="269" height="119" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
 </svg>

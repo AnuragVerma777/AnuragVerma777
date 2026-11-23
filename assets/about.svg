@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="548" height="190" viewBox="0 0 548 190">
+<svg xmlns="http://www.w3.org/2000/svg" width="548" height="250" viewBox="0 0 548 250">
 <defs>
-<clipPath id="c"><rect width="548" height="190" rx="18"/></clipPath>
+<clipPath id="c"><rect width="548" height="250" rx="18"/></clipPath>
 <filter id="b" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="45"/></filter>
 <filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0"/></filter>
 
 </defs>
 <g clip-path="url(#c)">
-<rect width="548" height="190" fill="#090b10"/>
-<g filter="url(#b)"><circle cx="477" cy="163" r="115" fill="#b3263a" opacity=".55"><animate attributeName="cx" values="477;438;477" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="163;151;163" dur="18s" repeatCount="indefinite"/></circle>
-<circle cx="352" cy="34" r="131" fill="#5a1020" opacity=".55"><animate attributeName="cx" values="352;383;352" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="34;0;34" dur="21s" repeatCount="indefinite"/></circle>
-<circle cx="77" cy="161" r="105" fill="#7a2a6a" opacity=".55"><animate attributeName="cx" values="77;41;77" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="161;158;161" dur="23s" repeatCount="indefinite"/></circle>
-<circle cx="330" cy="49" r="124" fill="#1a1f4a" opacity=".55"><animate attributeName="cx" values="330;338;330" dur="20s" repeatCount="indefinite"/><animate attributeName="cy" values="49;80;49" dur="26s" repeatCount="indefinite"/></circle></g>
-<rect width="548" height="190" filter="url(#n)"/>
+<rect width="548" height="250" fill="#090b10"/>
+<g filter="url(#b)"><circle cx="120" cy="214" r="136" fill="#b3263a" opacity=".55"><animate attributeName="cx" values="120;113;120" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="214;224;214" dur="18s" repeatCount="indefinite"/></circle>
+<circle cx="308" cy="45" r="137" fill="#5a1020" opacity=".55"><animate attributeName="cx" values="308;280;308" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="45;62;45" dur="21s" repeatCount="indefinite"/></circle>
+<circle cx="196" cy="60" r="129" fill="#7a2a6a" opacity=".55"><animate attributeName="cx" values="196;236;196" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="60;90;60" dur="23s" repeatCount="indefinite"/></circle>
+<circle cx="266" cy="116" r="121" fill="#1a1f4a" opacity=".55"><animate attributeName="cx" values="266;293;266" dur="20s" repeatCount="indefinite"/><animate attributeName="cy" values="116;105;116" dur="26s" repeatCount="indefinite"/></circle></g>
+<rect width="548" height="250" filter="url(#n)"/>
 
-<text x="28" y="40" fill="#fff" fill-opacity=".35" font-size="10" letter-spacing="3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">ABOUT</text>
-<text x="28" y="100" fill="#fff" font-size="26" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Building things</text>
-<text x="28" y="132" fill="#fff" font-size="26" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">that matter.</text>
-<text x="28" y="160" fill="#fff" fill-opacity=".55" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">&gt; open to collaborations<tspan>_<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+<text x="28" y="38" fill="#fff" fill-opacity=".35" font-size="10" letter-spacing="3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">ABOUT</text>
+<text x="28" y="78" fill="#fff" font-size="26" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Learning by building.</text>
+<text x="28" y="104" fill="#fff" fill-opacity="0.8" font-size="13" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Third-year B.Tech · Data Science · CSVTU, Bhilai.</text><text x="28" y="124" fill="#fff" fill-opacity="0.55" font-size="13" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Passionate about technology, AI and machine learning,</text><text x="28" y="144" fill="#fff" fill-opacity="0.55" font-size="13" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">turning ideas into practical, real-world applications.</text><text x="28" y="164" fill="#fff" fill-opacity="0.55" font-size="13" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Goal: AI/ML Engineer or Data Scientist, with industry</text><text x="28" y="184" fill="#fff" fill-opacity="0.55" font-size="13" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">experience through internships, building products</text><text x="28" y="204" fill="#fff" fill-opacity="0.55" font-size="13" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">that solve real problems.</text>
+<text x="28" y="232" fill="#fff" fill-opacity=".55" font-size="12" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">&gt; open to internships<tspan>_<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
 </g>
-<rect x=".5" y=".5" width="547" height="189" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+<rect x=".5" y=".5" width="547" height="249" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
 </svg>
