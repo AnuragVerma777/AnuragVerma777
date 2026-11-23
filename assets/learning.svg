@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="90" viewBox="0 0 270 90">
+<defs>
+<clipPath id="c"><rect width="270" height="90" rx="14"/></clipPath>
+<filter id="b" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="45"/></filter>
+<filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0"/></filter>
+
+</defs>
+<g clip-path="url(#c)">
+<rect width="270" height="90" fill="#090b10"/>
+<g filter="url(#b)"><circle cx="73" cy="22" r="42" fill="#2a3fa0" opacity=".55"><animate attributeName="cx" values="73;51;73" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="22;29;22" dur="18s" repeatCount="indefinite"/></circle>
+<circle cx="209" cy="17" r="45" fill="#6a1a3a" opacity=".55"><animate attributeName="cx" values="209;154;209" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="17;56;17" dur="21s" repeatCount="indefinite"/></circle>
+<circle cx="201" cy="77" r="50" fill="#101a4a" opacity=".55"><animate attributeName="cx" values="201;240;201" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="77;77;77" dur="23s" repeatCount="indefinite"/></circle></g>
+<rect width="270" height="90" filter="url(#n)"/>
+
+<text x="135.0" y="42" text-anchor="middle" font-size="26">🎯
+<animateTransform attributeName="transform" type="rotate" values="-6 135.0 34;6 135.0 34;-6 135.0 34" dur="4s" repeatCount="indefinite"/></text>
+<text x="135.0" y="72" text-anchor="middle" fill="#fff" fill-opacity=".45" font-size="10" letter-spacing="3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">ALWAYS LEARNING</text>
+</g>
+<rect x=".5" y=".5" width="269" height="89" rx="14" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>
