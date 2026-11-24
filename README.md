@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-<img src="assets/projects-title.svg" alt="projects" width="100%"/>
+<img src="assets/projects.svg" alt="projects" width="100%"/>
 
 <a href="https://github.com/AnuragVerma777/customer-churn-revenue-intelligence"><img src="assets/proj-1.svg" alt="customer-churn-revenue-intelligence" width="32.6%"/></a>
 <a href="https://github.com/AnuragVerma777/ResolveIQ"><img src="assets/proj-2.svg" alt="ResolveIQ" width="32.6%"/></a>
