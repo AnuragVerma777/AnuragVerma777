@@ -14,12 +14,12 @@
 
 <img src="assets/projects-title.svg" alt="projects" width="100%"/>
 
-<a href="https://github.com/AnuragVerma777/customer-churn-revenue-intelligence"><img src="assets/proj-1.svg" alt="customer-churn-revenue-intelligence" width="49%"/></a>
-<a href="https://github.com/AnuragVerma777/ResolveIQ"><img src="assets/proj-2.svg" alt="ResolveIQ" width="49%"/></a>
-<a href="https://github.com/AnuragVerma777/saansathi"><img src="assets/proj-3.svg" alt="saansathi" width="49%"/></a>
-<a href="https://github.com/AnuragVerma777/leetcode_solutions"><img src="assets/proj-4.svg" alt="leetcode_solutions" width="49%"/></a>
-<a href="https://github.com/AnuragVerma777/Game"><img src="assets/proj-5.svg" alt="Game" width="49%"/></a>
-<a href="https://github.com/AnuragVerma777/Hauntly"><img src="assets/proj-6.svg" alt="Hauntly" width="49%"/></a>
+<a href="https://github.com/AnuragVerma777/customer-churn-revenue-intelligence"><img src="assets/proj-1.svg" alt="customer-churn-revenue-intelligence" width="32.6%"/></a>
+<a href="https://github.com/AnuragVerma777/ResolveIQ"><img src="assets/proj-2.svg" alt="ResolveIQ" width="32.6%"/></a>
+<a href="https://github.com/AnuragVerma777/saansathi"><img src="assets/proj-3.svg" alt="saansathi" width="32.6%"/></a>
+<a href="https://github.com/AnuragVerma777/leetcode_solutions"><img src="assets/proj-4.svg" alt="leetcode_solutions" width="32.6%"/></a>
+<a href="https://github.com/AnuragVerma777/Game"><img src="assets/proj-5.svg" alt="Game" width="32.6%"/></a>
+<a href="https://github.com/AnuragVerma777/Hauntly"><img src="assets/proj-6.svg" alt="Hauntly" width="32.6%"/></a>
 
 <img src="assets/stack.svg" alt="stack" width="100%"/>
 
